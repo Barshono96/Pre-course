@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": "17841403377586680",
+    "username": "codeworks",
+    "profile_picture": "/media/codeworks-logo.png",
+    "full_name": "Codeworks",
+    "bio": "The coding bootcamp to master full-stack software engineering ⚡️Available in London, Berlin, Barcelona, Toronto, or remote.",
+    "website": "https://codeworks.me/",
+    "is_business": true,
+    "counts": {
+      "media": "212",
+      "follows": "866",
+      "followed_by": "1452"
+    }
+  },
+  "meta": {
+    "code": 200
+  }
+}
